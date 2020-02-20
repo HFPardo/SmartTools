@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTest", "SmartTest\SmartTest.csproj", "{EE2E8B45-3855-4BC8-98A8-24B7BA03B74E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2E8B45-3855-4BC8-98A8-24B7BA03B74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2E8B45-3855-4BC8-98A8-24B7BA03B74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2E8B45-3855-4BC8-98A8-24B7BA03B74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2E8B45-3855-4BC8-98A8-24B7BA03B74E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC73EE3-7C98-40A8-895C-9CECB40661BE}
+	EndGlobalSection
+EndGlobal
